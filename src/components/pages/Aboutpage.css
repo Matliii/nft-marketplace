@@ -1,0 +1,23 @@
+.textContainer {
+    align-content:center;
+    padding: 150px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.content > p {
+    font-size: larger;
+    font-weight: 700;
+}
+
+.content > a {
+    font-size: larger;
+    font-weight: 600;
+    color: greenyellow;
+    text-decoration: none;
+    
+}
+
+.content > a:hover {
+    color: hotpink;
+}
