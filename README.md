@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# NFT-marketplace:
+
+The pictures you can see on this website are minted in the Rinkeby's testnet. 
+Rinkeby is an Ethereum test network that allows for blockchain development testing before deployment on Mainnet.
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
