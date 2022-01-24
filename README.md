@@ -6,6 +6,7 @@ Rinkeby is an Ethereum test network that allows for blockchain development testi
 # Setup:
 
 Heroku is blocking the api calls from Opensea, so you have to do these steps in order to use the website.
+(If you don't do these steps, you won't see the minted NFT's in website)
 
 Api calls are built to this app using Cors proxies for the heroku's web hosting. You need to request temporary access token to cors proxies in order to make API calls:
 
