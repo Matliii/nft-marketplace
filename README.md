@@ -7,6 +7,10 @@ Rinkeby is an Ethereum test network that allows for blockchain development testi
 
 Heroku might be blocking the api calls from Open Sea if the photos doesn't show up
 
-Api calls were built on using Cors proxies, but half of the time heroku still manages to block the API calls.
+Api calls were built on using Cors proxies. You need to request temporary access token to cors proxies:
+
+1. Go to NFT-marketplace website console
+![alt text](https://imgur.com/2ogWKjq)
+3. In console there's error about blocked API calls (lines in red colour)
 
 Visit the site at: https://nft-marketplace-1.herokuapp.com/
