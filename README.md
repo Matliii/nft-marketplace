@@ -8,4 +8,5 @@ Visit the site at: https://nft-marketplace-1.herokuapp.com/
 # Photos doesn't show up in site:
 
 *Heroku might be blocking the api calls from Open Sea if the photos doesn't show up*
+
 Api calls were built on using Cors proxies, but half of the time heroku still manages to block the API calls.
