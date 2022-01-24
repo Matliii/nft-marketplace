@@ -17,5 +17,5 @@ Api calls are built on using Cors proxies in this App. You need to request tempo
 ![image](https://user-images.githubusercontent.com/86682573/150862044-f1fe617e-f46a-44a1-b958-47212b20e606.png)
 4. Click "Request temporary access to the demo server".
 
-##Visit the site at: https://nft-marketplace-1.herokuapp.com/
+### Visit the site at: https://nft-marketplace-1.herokuapp.com/
 
