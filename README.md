@@ -7,7 +7,7 @@ Rinkeby is an Ethereum test network that allows for blockchain development testi
 
 Heroku is blocking the api calls from Opensea, so you have to do these steps in order to use the website.
 
-Api calls are built on using Cors proxies in this App. You need to request temporary access token to cors proxies in order to make API calls:
+Api calls are built to this app using Cors proxies for the heroku's web hosting. You need to request temporary access token to cors proxies in order to make API calls:
 
 
 1. Go to NFT-marketplace website, then open console
