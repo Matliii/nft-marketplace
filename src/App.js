@@ -24,8 +24,8 @@ function App() {
 
     const getMyNfts = async () => {
       
-      const openseaData = await axios.get('https://cors-anywhere.herokuapp.com/https://testnets-api.opensea.io/assets?asset_contract_address=0x3CF55bDb2CF316f00Ea205661B009e3403F33779&order_direction=asc')
-      //const openseaData = await axios.get('https://testnets-api.opensea.io/assets?asset_contract_address=0x3CF55bDb2CF316f00Ea205661B009e3403F33779&order_direction=asc')
+      //const openseaData = await axios.get('https://cors-anywhere.herokuapp.com/https://testnets-api.opensea.io/assets?asset_contract_address=0x3CF55bDb2CF316f00Ea205661B009e3403F33779&order_direction=asc')
+      const openseaData = await axios.get('https://testnets-api.opensea.io/assets?asset_contract_address=0x3CF55bDb2CF316f00Ea205661B009e3403F33779&order_direction=asc')
       
         setPunkListData(openseaData.data.assets)
     }
