@@ -19,5 +19,4 @@ Api calls are built to this app using Cors proxies for the heroku's free web hos
 ![image](https://user-images.githubusercontent.com/86682573/150862044-f1fe617e-f46a-44a1-b958-47212b20e606.png)
 4. Click "Request temporary access to the demo server".
 
-### Visit the site at: https://cocktail-hub.onrender.com
-
+### Visit the site at: https://nft-marketplace-2ufi.onrender.com
